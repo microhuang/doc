@@ -1,6 +1,6 @@
 # PHP源代码规范
 
-规范是2008年7月份制定的，如果与[PHP The Right Way][PHP-FIG]里的标准[PSR-0][PSR-0]、[PSR-1][PSR-1]、[PSR-2][PSR-2]有冲突的地方，将逐渐改进。
+首次制定时间是2008年7月，如果与[PHP The Right Way][PHP-FIG]里的标准[PSR-0][PSR-0]、[PSR-1][PSR-1]、[PSR-2][PSR-2]有冲突的地方，将逐渐改进。
 
   [PHP-FIG]: http://www.phptherightway.com/
   [PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
